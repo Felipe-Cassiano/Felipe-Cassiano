@@ -13,4 +13,4 @@ Quando solicitado, consigo contribuir com ideias e análises, sempre visando uma
 * JavaScript
 * Git e GitHub
 * Lógica de Progamação
-* ReactJS (Iniciante)
+* ReactJS 
